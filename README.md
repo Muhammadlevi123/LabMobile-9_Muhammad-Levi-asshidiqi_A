@@ -14,12 +14,7 @@ NIM : H1D022103
 
 Shift Baru: A
 
-<div style="text-align: center;">
   <img src="read.png" alt="Lampiran read" width="400" />
-</div>
-
-
-
 
 1. Di komponen Angular (MahasiswaPage), ada metode getMahasiswa().
 
@@ -29,8 +24,7 @@ Shift Baru: A
 
 4. Komponen MahasiswaPage menerima data JSON dan menyimpannya di variabel dataMahasiswa untuk ditampilkan pada halaman.
 
-
-![Lampiran create](create.png)
+<img src="create.png" alt="Lampiran read" width="400" />
 
 1. Pengguna mengklik tombol Tambah Mahasiswa di halaman, yang membuka modal input.
 
@@ -42,8 +36,8 @@ Shift Baru: A
 
 5. Jika berhasil, modal input ditutup, getMahasiswa() dipanggil kembali untuk memperbarui daftar, dan pengguna melihat data yang baru saja ditambahkan.
 
+<img src="delete.png" alt="Lampiran read" width="400" />
 
-![Lampiran delete](delete.png)
 
 1. Pengguna mengklik tombol Hapus di samping data mahasiswa yang ingin dihapus.
 
@@ -55,7 +49,7 @@ Shift Baru: A
 
 5. Jika berhasil, getMahasiswa() dipanggil kembali untuk memperbarui daftar, dan pengguna melihat data mahasiswa telah terhapus dari daftar.
 
-![Lampiran update](update.png)
+<img src="update.png" alt="Lampiran read" width="400" />
 
 1. Pengguna mengklik tombol Edit di samping data mahasiswa yang ingin diubah.
 
