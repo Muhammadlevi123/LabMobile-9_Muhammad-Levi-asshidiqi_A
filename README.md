@@ -4,8 +4,6 @@
 **NIM:** H1D022103  
 **Shift Baru:** A  
 
-# Tugas Pertemuan 3
-
 Buatlah repository github serta upload Source Code ke repository
 
 Masukkan SS semua proses CRUD ke dalam Readme.md lalu jelaskan semua SS dibawah setiap gambar CRUD. Kelengkapan proses menentukan penilaian
