@@ -17,6 +17,9 @@ Shift Baru: A
 
 ![Lampiran read](read.png)
 
+<img src="read.png" alt="Lampiran read" width="400" />
+
+
 
 1. Di komponen Angular (MahasiswaPage), ada metode getMahasiswa().
 
