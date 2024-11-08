@@ -14,10 +14,10 @@ NIM : H1D022103
 
 Shift Baru: A
 
+<div style="text-align: center;">
+  <img src="read.png" alt="Lampiran read" width="400" />
+</div>
 
-![Lampiran read](read.png)
-
-<img src="read.png" alt="Lampiran read" width="400" />
 
 
 
